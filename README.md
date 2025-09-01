@@ -14,7 +14,7 @@
 
   ### 👨‍💻 Sobre Mim
 
-  - 🔭 Atualmente trabalhando no projeto **[Whaticket-me](https://github.com/hzinfinty/whaticket-me)**.
+  - 🔭 Atualmente trabalhando no projeto **[Whaticket-me](https://github.com/hzinfinty/projeto-whaticket)**.
   - 🌱 Aprendendo sobre **AWS, Docker e Kubernetes** para aprimorar minhas habilidades em DevOps.
   - 👯 Procuro colaborar em projetos de código aberto que utilizem Node.js e React.
   - 💬 Pergunte-me sobre **JavaScript, TypeScript e Infraestrutura como Código (IaC)**.
