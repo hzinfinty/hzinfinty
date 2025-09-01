@@ -44,45 +44,25 @@
 
 ---
 
-### 🚀 Habilidades & Ferramentas (Skills & Tools)
+### 🚀 Skills & Tools
 
 <p align="center">
-  <em>Minhas principais competências e as tecnologias que utilizo no dia a dia.</em>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,mysql,postgres" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,git,github,bash,linux" />
+  </a>
 </p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="140">
-      <strong>Frontend</strong>
-    </td>
-    <td align="center" width="400">
-      <img src="https://progress-bar.dev/100/?title=HTML&color=E34F26" alt="HTML 100%">
-      <img src="https://progress-bar.dev/100/?title=CSS&color=1572B6" alt="CSS 100%">
-      <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind" alt="React, JS, TS, Tailwind">
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      <strong>Backend</strong>
-    </td>
-    <td align="center" width="400">
-      <img src="https://progress-bar.dev/100/?title=PHP&color=777BB4" alt="PHP 100%">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,mysql,postgres" alt="Node.js, Express, Sequelize, MySQL, PostgreSQL">
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      <strong>DevOps & Tools</strong>
-    </td>
-    <td align="center" width="400">
-      <img src="https://skillicons.dev/icons?i=aws,docker,git,github,bash,linux" alt="AWS, Docker, Git, GitHub, Bash, Linux">
-    </td>
-  </tr>
-</table>
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub (My GitHub Stats)
+### 📊 My GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hzinfinty&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -92,7 +72,7 @@
 
 ---
 
-### 🔗 Contatos (Contacts)
+### 🔗 Contacts
 
 <p align="center">
   <a href="URL_DO_SEU_LINKEDIN_AQUI"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
