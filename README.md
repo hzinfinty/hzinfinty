@@ -14,7 +14,7 @@
 
   ### 👨‍💻 Sobre Mim
 
-  - 🔭 Atualmente trabalhando no projeto **[Whaticket](https://github.com/hzinfinty/projeto-whaticket)**.
+  - 🔭 Atualmente trabalhando no projeto **[Whaticket 10.09](https://github.com/hzinfinty/waticketsaas_src)**.
   - 🌱 Aprendendo sobre **AWS, Docker e Kubernetes** para aprimorar minhas habilidades em DevOps.
   - 👯 Procuro colaborar em projetos de código aberto que utilizem Node.js e React.
   - 💬 Pergunte-me sobre **JavaScript, TypeScript e Infraestrutura como Código (IaC)**.
@@ -34,11 +34,11 @@
   
   ### 👨‍💻 About Me
 
-  - 🔭 I’m currently working on the **[Whaticket-me](https://github.com/hzinfinty/whaticket-me)** project.
+  - 🔭 I’m currently working on the **[Whaticket 10.09](https://github.com/hzinfinty/waticketsaas_src)** project.
   - 🌱 I’m currently learning about **AWS, Docker, and Kubernetes** to improve my DevOps skills.
   - 👯 I’m looking to collaborate on open-source projects using Node.js and React.
   - 💬 Ask me about **JavaScript, TypeScript, and Infrastructure as Code (IaC)**.
-  - 📫 How to reach me: **[LinkedIn](URL_DO_SEU_LINKEDIN_AQUI)** or **[Email](mailto:SEU_EMAIL_AQUI)**.
+  - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/hyo-seido-b1282a234/)** or **[Email](mailto:hyoseido1@gmail.com)**.
   - 😄 Pronouns: He/Him
 </details>
 
