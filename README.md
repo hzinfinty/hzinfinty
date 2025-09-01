@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNkZDE1MjYzcjk2c2NidHRwd211MW93MTRoMDR5b25yczdpM25lZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P1TXh0I0kE6YcmBAnT/giphy.gif" width="100%" alt="Banner animado de programação">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" width="100%" alt="Banner animado de programação">
 </p>
 
 <details open>
