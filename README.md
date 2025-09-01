@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2s0ZGU4MjI5Z240dmd5aDU1d3NnYnIzcHh6N2t6azltaGN2dXA3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjo6jpI2T/giphy.gif" width="100%" alt="Banner animado de programação">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNkZDE1MjYzcjk2c2NidHRwd211MW93MTRoMDR5b25yczdpM25lZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P1TXh0I0kE6YcmBAnT/giphy.gif" width="100%" alt="Banner animado de programação">
 </p>
 
 <details open>
