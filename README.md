@@ -14,7 +14,7 @@
 
   ### 👨‍💻 Sobre Mim
 
-  - 🔭 Atualmente trabalhando no projeto **[Whaticket 10.09](https://github.com/hzinfinty/waticketsaas_src)**.
+  - 🔭 Atualmente trabalhando no projeto **[Blood Strike 2016](https://github.com/hzinfinty/Blood-Strike-Server-V2016)**.
   - 🌱 Aprendendo sobre **AWS, Docker e Kubernetes** para aprimorar minhas habilidades em DevOps.
   - 👯 Procuro colaborar em projetos de código aberto que utilizem Node.js e React.
   - 💬 Pergunte-me sobre **JavaScript, TypeScript e Infraestrutura como Código (IaC)**.
@@ -34,7 +34,7 @@
   
   ### 👨‍💻 About Me
 
-  - 🔭 I’m currently working on the **[Whaticket 10.09](https://github.com/hzinfinty/waticketsaas_src)** project.
+  - 🔭 I’m currently working on the **[Blood Strike 2016](https://github.com/hzinfinty/Blood-Strike-Server-V2016)** project.
   - 🌱 I’m currently learning about **AWS, Docker, and Kubernetes** to improve my DevOps skills.
   - 👯 I’m looking to collaborate on open-source projects using Node.js and React.
   - 💬 Ask me about **JavaScript, TypeScript, and Infrastructure as Code (IaC)**.
